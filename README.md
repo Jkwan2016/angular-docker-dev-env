@@ -1,3 +1,4 @@
+'''
 node ➜ /workspaces/angular-docker-dev-env (master) $ ng version
 
      _                      _                 ____ _     ___
@@ -76,3 +77,4 @@ runtime.js            | runtime       |   6.85 kB
 Build at: 2024-09-19T05:23:47.481Z - Hash: 6b8b846ba61a3d06 - Time: 28331ms
 
 ** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+'''
